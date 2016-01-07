@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAutowire.iml" filepath="$PROJECT_DIR$/AndroidAutowire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autowirelib/autowirelib.iml" filepath="$PROJECT_DIR$/autowirelib/autowirelib.iml" />
+    </modules>
+  </component>
+</project>
