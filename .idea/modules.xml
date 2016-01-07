@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidAutowire.iml" filepath="$PROJECT_DIR$/AndroidAutowire.iml" />
-      <module fileurl="file://$PROJECT_DIR$/autowirelib/autowirelib.iml" filepath="$PROJECT_DIR$/autowirelib/autowirelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroWire.iml" filepath="$PROJECT_DIR$/.idea/AndroWire.iml" />
     </modules>
   </component>
 </project>
